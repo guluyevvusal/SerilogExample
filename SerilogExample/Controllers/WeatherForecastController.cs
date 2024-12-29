@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Serilog;
 
+
+
 [ApiController]
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
